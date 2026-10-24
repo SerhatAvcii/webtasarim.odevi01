@@ -1,0 +1,113 @@
+[index53.html](https://github.com/user-attachments/files/33912837/index53.html)
+<!-- webtasarimodevi01 -->
+
+<html>
+ <head>
+   <title>
+ SERHAT AVCI CV
+   </title>
+  </head>
+<center>
+
+<h1>
+CV
+</h1>
+ </center>
+      <center>
+    <h2>
+SERHAT AVCI
+    </h2>
+ </center>
+<B><I><U>
+Bölüm:
+</u></I></B><br>
+ <I>
+Samsun Üniversitesi
+</I>
+<br>
+<U>
+Arkay-Yüz Yazılım Geliştirme
+</U><br>
+<B>1. Sınıf
+</B><br>
+
+<center><img src="https://profil.samsun.edu.tr/images/galery/ballica01.jpg"heigh=160 width=90></center><br><br>
+
+
+
+<center><font size=5 color=green>
+hobiler
+</font></center>
+
+
+<center><table border=4 cellspacing=6 rules=none bgcolor=green>
+<tr align=left>
+<td>
+<center>
+<font face="Arial"> Masa Tenisi  </font></UL></td></center>
+<td>
+<center>
+<font face="Times New Roman"> Yürüyüş </font></td></center>
+<td>
+<center>
+<font face="Helvetica"> Gönüllülük etkinlkleri </font></td></center>
+<td>
+<center>
+<font face="Verdana"> Kitap okumak</font></td></center>
+<td>
+<center>
+<font face="Candara"> Seyehat etmek</font></td></center><br>
+<td>
+<center>
+<font face="Geneva"> Tarih araştırmaları</font></td></center>
+<td>
+<center>
+<font face="Calibri">Uzay araştırmaları</font></td></center>
+<td>
+<center>
+<font face="Brush Script MT">Uyumak</font></td></center>
+<td>
+<center>
+<font face="Lucida Bright">yeni kültürler tanımak</font></td></center>
+<td>
+<center>
+<font face="Comic Sans">Müzir dinlemek</font></center></td><br>
+</table></center>
+
+<table Border=3 bgcolor=grey><br><br>
+<h3>Okuduğu Okullar</h3>
+<tr><td>Mehmet Zeki Obdan İlkokulu</td></tr><tr><td>Köroğlu Ortaokulu</td></tr>
+<tr><td>Arnavutköy Anadolu Lisesi</td><tr><td>Smsun Üniversitesi</td></tr>
+</table>
+<center><h3>Hakkında:</h3>
+<p align=justify>05.07.2007 İSTANBUL GAZİOSMANPAŞA doğumluyum. 5 çocuklu bir ailenin ortanca oğluyum.Doğma büyüme istanbullu ama kütük ordu. 17 ve 3 yaşında iki erkek kardeşim, 30 yaşında bir abim ve 26 yaşında bir ablam var.müzik dinlemeyi ve denizi her anlamda çok severim. Genellikle yalnızbaşıma birşeylerle oyalanmayı severim.dünya turu yapma hayalim var. kişisel gelişim, roman ve tarih kitaları ilgimi çeker.</p></center>
+
+<table border="3" cellspacing="5" rules=none bordercolor=yellow width="350">
+<td><label for="Cinsiyet">Cinsiyet</label><br>
+<input type="radio" id="Erkek" name="cinsiyet" value="Erkek">
+<label for="Erkek">erkek</label>
+</table><br>
+
+
+<select id="hobi" name="Hobi" size="3" multiple>
+<option value="Hobi_yok" selected>Hobileri</option>
+<option value="futbol" selected>piyano</option>
+<option value="basketbol">basketbol</option>
+<option value="hentbol">voleybol</option></select><br><br>
+<OL><li>İletişim Bilgileri</li></OL>
+<UL><li>avcis18061@gmail.com</li></UL>
+<UL><li>0 (539) 828 79 52</li></UL>
+
+
+<form action="/kayit_ol.php" method="get">
+
+<input type="submit" value="Başarılı cv!">
+<input type="reset" value="iletişime geç!">
+</form>
+
+
+
+
+
+</head>
+</html>
